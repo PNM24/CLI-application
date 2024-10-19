@@ -12,5 +12,4 @@
 
 # Ștergerea unui contact
             node index.js --action remove --id=3
-<a href="https://ibb.co/BjXvTnL"><img src="https://
-i.ibb.co/S0hHVfN/Captura-desde-2024-10-19-21-08-57.png" alt="Captura-desde-2024-10-19-21-08-57" border="0"></a>
+<a href="https://ibb.co/BjXvTnL"><img src="https://i.ibb.co/S0hHVfN/Captura-desde-2024-10-19-21-08-57.png" alt="Captura-desde-2024-10-19-21-08-57" border="0"></a>
